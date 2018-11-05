@@ -2,4 +2,4 @@
 
 ### Installation 
 
-``` wget https://raw.githubusercontent.com/reyluar18/Shiva/master/PandaVPN_OCS.sh && chmod +x PandaVPN_OCS.sh && ./PandaVPN_OCS.sh```
+``` wget https://raw.githubusercontent.com/reyluar18/PandaVPN_Panel/master/PandaVPN_OCS.sh && chmod +x PandaVPN_OCS.sh && ./PandaVPN_OCS.sh```
